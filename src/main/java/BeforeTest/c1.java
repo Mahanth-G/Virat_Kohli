@@ -11,8 +11,10 @@ public class c1
 {
 	@BeforeSuite
 	public static void Beforesuite() {
-		System.out.println(" before suite");
+		System.out.println(" before suite m");
 		}
+	dfghjtr
+	123456
 	@AfterSuite
 	public static void AfterSuite() {
 		System.out.println(" After suite");
